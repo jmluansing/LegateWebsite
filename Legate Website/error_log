@@ -1,0 +1,96 @@
+[24-Nov-2017 00:59:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Nov-2017 01:00:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Nov-2017 01:10:52 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2017 07:49:13 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2017 08:42:55 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Dec-2017 05:19:58 UTC] PHP Notice:  Undefined index: cusemail in /home/legatecom/public_html/inquryemail.php on line 11
+[07-Dec-2017 05:19:58 UTC] PHP Notice:  Undefined index: thour in /home/legatecom/public_html/inquryemail.php on line 14
+[07-Dec-2017 05:19:58 UTC] PHP Notice:  Undefined index: tmins in /home/legatecom/public_html/inquryemail.php on line 14
+[07-Dec-2017 05:19:58 UTC] PHP Notice:  Undefined index: ampm in /home/legatecom/public_html/inquryemail.php on line 14
+[07-Dec-2017 05:19:58 UTC] PHP Notice:  Undefined index: cusname in /home/legatecom/public_html/inquryemail.php on line 15
+[07-Dec-2017 05:19:58 UTC] PHP Notice:  Undefined index: cuscn in /home/legatecom/public_html/inquryemail.php on line 15
+[07-Dec-2017 05:19:58 UTC] PHP Notice:  Undefined index: cusadd in /home/legatecom/public_html/inquryemail.php on line 15
+[07-Dec-2017 05:19:58 UTC] PHP Notice:  Undefined index: itm in /home/legatecom/public_html/inquryemail.php on line 15
+[07-Dec-2017 05:19:58 UTC] PHP Notice:  Undefined index: pdsm in /home/legatecom/public_html/inquryemail.php on line 15
+[07-Dec-2017 05:19:58 UTC] PHP Notice:  Undefined index: messageinquiry in /home/legatecom/public_html/inquryemail.php on line 15
+[10-Dec-2017 06:00:11 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Dec-2017 17:18:16 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Dec-2017 18:45:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Dec-2017 18:46:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Jan-2018 00:54:12 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Jan-2018 00:56:34 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jan-2018 18:27:10 UTC] PHP Notice:  Undefined index: cusemail in /home/legatecom/public_html/inquryemail.php on line 11
+[29-Jan-2018 18:27:10 UTC] PHP Notice:  Undefined index: thour in /home/legatecom/public_html/inquryemail.php on line 14
+[29-Jan-2018 18:27:10 UTC] PHP Notice:  Undefined index: tmins in /home/legatecom/public_html/inquryemail.php on line 14
+[29-Jan-2018 18:27:10 UTC] PHP Notice:  Undefined index: ampm in /home/legatecom/public_html/inquryemail.php on line 14
+[29-Jan-2018 18:27:10 UTC] PHP Notice:  Undefined index: cusname in /home/legatecom/public_html/inquryemail.php on line 15
+[29-Jan-2018 18:27:10 UTC] PHP Notice:  Undefined index: cuscn in /home/legatecom/public_html/inquryemail.php on line 15
+[29-Jan-2018 18:27:10 UTC] PHP Notice:  Undefined index: cusadd in /home/legatecom/public_html/inquryemail.php on line 15
+[29-Jan-2018 18:27:10 UTC] PHP Notice:  Undefined index: itm in /home/legatecom/public_html/inquryemail.php on line 15
+[29-Jan-2018 18:27:10 UTC] PHP Notice:  Undefined index: pdsm in /home/legatecom/public_html/inquryemail.php on line 15
+[29-Jan-2018 18:27:10 UTC] PHP Notice:  Undefined index: messageinquiry in /home/legatecom/public_html/inquryemail.php on line 15
+[31-Jan-2018 19:15:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Feb-2018 12:55:30 UTC] PHP Notice:  Undefined index: cusemail in /home/legatecom/public_html/inquryemail.php on line 11
+[05-Feb-2018 12:55:30 UTC] PHP Notice:  Undefined index: thour in /home/legatecom/public_html/inquryemail.php on line 14
+[05-Feb-2018 12:55:30 UTC] PHP Notice:  Undefined index: tmins in /home/legatecom/public_html/inquryemail.php on line 14
+[05-Feb-2018 12:55:30 UTC] PHP Notice:  Undefined index: ampm in /home/legatecom/public_html/inquryemail.php on line 14
+[05-Feb-2018 12:55:30 UTC] PHP Notice:  Undefined index: cusname in /home/legatecom/public_html/inquryemail.php on line 15
+[05-Feb-2018 12:55:30 UTC] PHP Notice:  Undefined index: cuscn in /home/legatecom/public_html/inquryemail.php on line 15
+[05-Feb-2018 12:55:30 UTC] PHP Notice:  Undefined index: cusadd in /home/legatecom/public_html/inquryemail.php on line 15
+[05-Feb-2018 12:55:30 UTC] PHP Notice:  Undefined index: itm in /home/legatecom/public_html/inquryemail.php on line 15
+[05-Feb-2018 12:55:30 UTC] PHP Notice:  Undefined index: pdsm in /home/legatecom/public_html/inquryemail.php on line 15
+[05-Feb-2018 12:55:30 UTC] PHP Notice:  Undefined index: messageinquiry in /home/legatecom/public_html/inquryemail.php on line 15
+[07-Feb-2018 09:34:58 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Apr-2018 09:28:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/legatecom/public_html/paypalstep2.php on line 28
+[20-Apr-2018 09:28:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/legatecom/public_html/paypalstep2.php on line 28
+[20-Apr-2018 09:28:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/legatecom/public_html/paypalstep2.php on line 28
+[20-Apr-2018 10:19:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:19:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:19:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:19:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:19:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:19:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:19:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:20:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:20:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:20:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:20:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:20:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 10:20:09 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/legatecom/public_html/testpaypal.php on line 46
+[20-Apr-2018 12:14:46 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:15:33 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:16:30 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:16:37 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:17:06 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:17:41 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:22:16 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:24:31 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:24:37 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:24:37 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:57:14 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[20-Apr-2018 12:59:31 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[21-Apr-2018 01:28:48 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[21-Apr-2018 01:29:10 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[21-Apr-2018 01:32:47 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[21-Apr-2018 04:37:47 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[21-Apr-2018 04:38:58 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[21-Apr-2018 04:38:59 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[21-Apr-2018 04:39:00 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[21-Apr-2018 04:39:00 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[21-Apr-2018 04:39:04 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 75
+[23-Apr-2018 01:01:18 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 76
+[23-Apr-2018 01:01:22 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 161
+[23-Apr-2018 01:16:29 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 161
+[23-Apr-2018 01:17:11 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 76
+[23-Apr-2018 01:17:43 UTC] PHP Warning:  Division by zero in /home/legatecom/public_html/testpaypal.php on line 76
+[05-Jul-2018 15:43:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Mar-2019 14:14:53 UTC] PHP Notice:  Undefined index: cusemail in /home/legatecom/public_html/inquryemail.php on line 11
+[15-Mar-2019 14:14:54 UTC] PHP Notice:  Undefined index: thour in /home/legatecom/public_html/inquryemail.php on line 14
+[15-Mar-2019 14:14:54 UTC] PHP Notice:  Undefined index: tmins in /home/legatecom/public_html/inquryemail.php on line 14
+[15-Mar-2019 14:14:54 UTC] PHP Notice:  Undefined index: ampm in /home/legatecom/public_html/inquryemail.php on line 14
+[15-Mar-2019 14:14:54 UTC] PHP Notice:  Undefined index: cusname in /home/legatecom/public_html/inquryemail.php on line 15
+[15-Mar-2019 14:14:54 UTC] PHP Notice:  Undefined index: cuscn in /home/legatecom/public_html/inquryemail.php on line 15
+[15-Mar-2019 14:14:54 UTC] PHP Notice:  Undefined index: cusadd in /home/legatecom/public_html/inquryemail.php on line 15
+[15-Mar-2019 14:14:54 UTC] PHP Notice:  Undefined index: itm in /home/legatecom/public_html/inquryemail.php on line 15
+[15-Mar-2019 14:14:54 UTC] PHP Notice:  Undefined index: pdsm in /home/legatecom/public_html/inquryemail.php on line 15
+[15-Mar-2019 14:14:54 UTC] PHP Notice:  Undefined index: messageinquiry in /home/legatecom/public_html/inquryemail.php on line 15

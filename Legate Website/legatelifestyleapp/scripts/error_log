@@ -1,0 +1,88 @@
+[16-Apr-2019 02:31:44 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:35:28 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:39:14 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:41:33 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:51:02 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:51:21 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:53:54 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:55:50 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:59:51 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:59:51 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:59:52 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:59:52 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:59:52 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 02:59:52 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[16-Apr-2019 09:07:31 UTC] PHP Warning:  checkdnsrr(): Host cannot be empty in /home/legatecom/public_html/legatelifestyleapp/scripts/register.php on line 21
+[16-Apr-2019 09:07:48 UTC] PHP Warning:  checkdnsrr(): Host cannot be empty in /home/legatecom/public_html/legatelifestyleapp/scripts/register.php on line 21
+[16-Apr-2019 09:07:52 UTC] PHP Warning:  checkdnsrr(): Host cannot be empty in /home/legatecom/public_html/legatelifestyleapp/scripts/register.php on line 21
+[16-Apr-2019 09:08:30 UTC] PHP Warning:  checkdnsrr(): Host cannot be empty in /home/legatecom/public_html/legatelifestyleapp/scripts/register.php on line 21
+[16-Apr-2019 09:23:53 UTC] PHP Warning:  checkdnsrr(): Host cannot be empty in /home/legatecom/public_html/legatelifestyleapp/scripts/register.php on line 21
+[16-Apr-2019 10:57:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:57:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[16-Apr-2019 10:58:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fect_assoc() in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/ads.php on line 19
+[17-Apr-2019 12:46:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/legatecom/public_html/legatelifestyleapp/scripts/profileimage.php on line 28
+[17-Apr-2019 12:47:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/legatecom/public_html/legatelifestyleapp/scripts/profileimage.php on line 28
+[17-Apr-2019 12:47:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/legatecom/public_html/legatelifestyleapp/scripts/profileimage.php on line 28
+[17-Apr-2019 14:06:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getExtension() in /home/legatecom/public_html/legatelifestyleapp/scripts/profileimage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/profileimage.php on line 19
+[18-Apr-2019 07:00:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/legatecom/public_html/legatelifestyleapp/scripts/testjm.php on line 43
+[18-Apr-2019 07:00:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/legatecom/public_html/legatelifestyleapp/scripts/testjm.php on line 43
+[18-Apr-2019 15:01:30 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function lenght() in /home/legatecom/public_html/legatelifestyleapp/scripts/testjm.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/legatecom/public_html/legatelifestyleapp/scripts/testjm.php on line 43
